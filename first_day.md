@@ -47,5 +47,4 @@
 - TF / IDF + co-occurence + 
 - happy / sad / angry feature of word bags
 - Applied in product reviews
-
 - Applied in BPD 
